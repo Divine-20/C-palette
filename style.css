@@ -1,0 +1,151 @@
+body{
+    background-color: #eff3ff;
+}
+
+#color{
+    background-color: rgb(1, 1, 51);
+    height: 40px;
+    width: 300px;
+    color: white;
+    font-family: 'Manjari', sans-serif;
+    border-radius: 40px;
+    border: none;
+
+    margin-left: 530px;
+    margin-top: 30px;
+}
+#palette{
+    padding-left: 530px;
+    padding-top: 50px;
+    color: rgb(1, 1, 51);
+    font-family: 'Manjari', sans-serif;
+    font-size: 30px;
+ }
+ 
+#myboxes{
+   display: flex;
+   margin-left: 80px;
+   padding-top: 10px;
+   padding: 50px;
+   padding: relative;
+   animation-name: move;
+        animation-duration: 2.9s;
+        animation-iteration-count: infinite;
+        
+    
+}
+.box1{
+         margin-left: 70px;
+   
+         margin-top: 10px;
+        height: 200px;
+        width: 160px;
+        border-radius: 15px;
+        background-color:#EEEDF0;
+        border-color: white;
+        border-style: solid;
+        border-width: 10px 10px 50px 10px;
+       
+
+    
+    }
+    .box2{
+        margin-left: 30px;
+        margin-top: 10px;
+        height: 200px;
+        width: 160px;
+        border-radius: 15px;
+        background-color:#A1B5C1;
+        border-color: white;
+        border-style: solid;
+        border-width: 10px 10px 50px 10px;
+
+    }
+    @keyframes move {
+        0%{
+            
+            margin-top: -200px;
+        }
+        20%{
+           
+            margin-top: -50px;
+        }
+        100%{
+            
+        }
+    }
+    .box3{
+        margin-left: 30px;
+        margin-top: 10px;
+        height: 200px;
+        width: 160px;
+        border-radius: 15px;
+        background-color:#F9ACA7;
+        border-color: white;
+        border-style: solid;
+        border-width: 10px 10px 50px 10px;
+        
+    }
+    .box4{
+        margin-left: 30px;
+        margin-top: 10px;
+        height: 200px;
+        width: 160px;
+        border-radius: 15px;
+        background-color:#68747D;
+        border-color: white;
+        border-style: solid;
+        border-width: 10px 10px 50px 10px;
+        
+    
+    }
+    .box5{
+        margin-left: 30px;
+        margin-top: 10px;
+        height: 200px;
+        width: 160px;
+        border-radius: 15px;
+        background-color:#CF365F;
+        border-color: white;
+        border-style: solid;
+        border-width: 10px 10px 50px 10px;
+    
+    } 
+    h2{
+        padding-left: 30px;
+        padding-top: 200px;
+        font-size: 17px;
+        font-family: 'Manjari', sans-serif;
+    }
+    #generate{
+        background-color: rgb(185, 118, 214);
+        color: white;
+        font-family:'Be Vietnam Pro', sans-serif;
+        font-size: 16px;
+        width: 320px;
+        height: 50px;
+        margin-left: 530px;
+        padding-top: 0;
+        border-radius: 6px;
+        border: none;
+    }
+    .head{
+        font-size: 14px;
+        font-family: 'Be Vietnam Pro', sans-serif;
+        padding-top: 17px;
+        padding-left: 510px;
+        font-weight: normal;
+    }
+    .myBtn{
+        background-color: white;
+        border-radius: 20px;
+        height: 40px;
+        border: none;
+        width: 370px;
+        margin-left: 500px;
+        font-size: 12px;
+        margin-top: 40px;
+        font-weight: bold;
+        font-family: 'Niramit', sans-serif;
+        color: gray;
+    }
