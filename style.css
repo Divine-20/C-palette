@@ -164,7 +164,7 @@ cursor: pointer;
         color:rgb(1, 1, 51);
         border-radius: 30px;
         transform: scale(1.2);
-        box-shadow: -7px 10px 9px 5px;
+        box-shadow: -3px 6px 3px #c9d0e4;
     
     }
     .head{
