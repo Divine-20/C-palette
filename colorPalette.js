@@ -1,5 +1,5 @@
 function generatePalette(){
-    location.href ="file:///C:/Users/pc/OneDrive/Documents/myCodes/Revis/design/challenges/C-palette/index(2).html"
+    location.href =" https://divine-20.github.io/ColorPalette/"
 
 }
 
