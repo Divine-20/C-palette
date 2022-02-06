@@ -30,6 +30,8 @@ body{
    padding: relative;
    
 }
+
+    
 .box1{
          margin-left: 70px;
    
@@ -44,11 +46,14 @@ body{
         animation-name: move;
         animation-duration: 7s;
         animation-iteration-count: 3;
-      
-       
+        
+}
+.box1:hover{
+cursor: pointer;
+    border-radius: 40px;
+    transform: scale(1);
 
-    
-    }
+}
     .box2{
         margin-left: 30px;
         margin-top: 10px;
@@ -61,6 +66,12 @@ body{
         border-width: 10px 10px 50px 10px;
 
     }
+    .box2:hover{
+    cursor: pointer;
+    border-radius: 40px;
+    transform: scale(1);
+
+}
     @keyframes move {
         0%{
             
@@ -86,6 +97,12 @@ body{
         border-width: 10px 10px 50px 10px;
         
     }
+    .box3:hover{
+    cursor: pointer;
+    border-radius: 40px;
+    transform: scale(1);
+
+}
     .box4{
         margin-left: 30px;
         margin-top: 10px;
@@ -99,6 +116,12 @@ body{
         
     
     }
+    .box4:hover{
+    cursor: pointer;
+    border-radius: 40px;
+    transform: scale(1);
+
+}
     .box5{
         margin-left: 30px;
         margin-top: 10px;
@@ -111,6 +134,12 @@ body{
         border-width: 10px 10px 50px 10px;
     
     } 
+    .box5:hover{
+    cursor: pointer;
+    border-radius: 40px;
+    transform: scale(1);
+
+}
     h2{
         padding-left: 30px;
         padding-top: 200px;

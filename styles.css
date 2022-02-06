@@ -33,7 +33,7 @@ h1{
  }
  #box1:hover{
      cursor: pointer;
-     box-shadow: -9px 15px 9px;
+     box-shadow: -4px 8px 4px silver;
     transform: scale(1.1);
         
  }
@@ -51,7 +51,7 @@ h1{
  }
  #box2:hover{
     cursor: pointer;
-    box-shadow: -9px 15px 9px;
+    box-shadow: -4px 8px 4px silver ;
         transform: scale(1.1);
        
 }
@@ -71,7 +71,7 @@ h1{
         }
         #box3:hover{
             cursor: pointer;
-            box-shadow: -9px 15px 9px;
+            box-shadow: -4px 8px 4px silver ;
                 transform: scale(1.1);
                
         }
@@ -89,7 +89,7 @@ h1{
             }
             #box4:hover{
                 cursor: pointer;
-                box-shadow: -9px 15px 9px;
+                box-shadow: -4px 8px 4px silver ;
                     transform: scale(1.1);
                    
             }
@@ -107,7 +107,7 @@ border-width: 10px 10px 50px 10px;
 }
 #box5:hover{
     cursor: pointer;
-    box-shadow: -9px 15px 9px;
+    box-shadow: -4px 8px 4px silver ;
         transform: scale(1.1);
        
 }
@@ -125,7 +125,7 @@ border-width: 10px 10px 50px 10px;
 }
 #box6:hover{
     cursor: pointer;
-    box-shadow: -9px 15px 9px;
+    box-shadow: -4px 8px 4px silver ;
         transform: scale(1.1);
        
 }
@@ -143,7 +143,7 @@ border-width: 10px 10px 50px 10px;
 }
 #box7:hover{
     cursor: pointer;
-    box-shadow: -9px 15px 9px;
+    box-shadow: -4px 8px 4px silver ;
         transform: scale(1.1);
        
 }
@@ -168,8 +168,8 @@ border-width: 10px 10px 50px 10px;
 }
 #box8:hover{
     cursor: pointer;
-    box-shadow: -9px 15px 9px;
-        transform: scale(1.1);
+    box-shadow: -4px 8px 4px silver;
+    transform: scale(1.1);
        
 }
 
@@ -186,7 +186,7 @@ border-width: 10px 10px 50px 10px;
 }
 #box9:hover{
     cursor: pointer;
-    box-shadow: -9px 15px 9px;
+    box-shadow: -4px 8px 4px silver ;
         transform: scale(1.1);
        
 }
@@ -204,7 +204,7 @@ border-width: 10px 10px 50px 10px;
 }
 #box10:hover{
     cursor: pointer;
-    box-shadow: -9px 15px 9px;
+    box-shadow: -4px 8px 4px silver ;
         transform: scale(1.1);
        
 }
@@ -222,7 +222,7 @@ border-width: 10px 10px 50px 10px;
 }
 #box11:hover{
     cursor: pointer;
-    box-shadow: -9px 15px 9px;
+    box-shadow: -4px 8px 4px silver ;
         transform: scale(1.1);
        
 }
@@ -240,7 +240,7 @@ border-width: 10px 10px 50px 10px;
 }
 #box12:hover{
     cursor: pointer;
-    box-shadow: -9px 15px 9px;
+    box-shadow: -4px 8px 4px silver ;
         transform: scale(1.1);
        
 }
@@ -258,7 +258,7 @@ border-width: 10px 10px 50px 10px;
 }
 #box13:hover{
     cursor: pointer;
-    box-shadow: -9px 15px 9px;
+    box-shadow: -4px 8px 4px silver ;
         transform: scale(1.1);
        
 }
@@ -276,7 +276,7 @@ border-width: 10px 10px 50px 10px;
 }
 #box14:hover{
     cursor: pointer;
-    box-shadow: -9px 15px 9px;
+    box-shadow: -4px 8px 4px silver ;
         transform: scale(1.1);
        
 }
