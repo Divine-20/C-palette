@@ -28,11 +28,7 @@ body{
    padding-top: 10px;
    padding: 50px;
    padding: relative;
-   animation-name: move;
-        animation-duration: 2.9s;
-        animation-iteration-count: infinite;
-        
-    
+   
 }
 .box1{
          margin-left: 70px;
@@ -45,6 +41,10 @@ body{
         border-color: white;
         border-style: solid;
         border-width: 10px 10px 50px 10px;
+        animation-name: move;
+        animation-duration: 7s;
+        animation-iteration-count: 3;
+      
        
 
     
@@ -64,15 +64,15 @@ body{
     @keyframes move {
         0%{
             
-            margin-top: -200px;
+            margin-left: -300px;
         }
         20%{
            
-            margin-top: -50px;
+            margin-left: 100px;
         }
         100%{
             
-        }
+        } 
     }
     .box3{
         margin-left: 30px;
@@ -128,6 +128,15 @@ body{
         padding-top: 0;
         border-radius: 6px;
         border: none;
+    }
+    #generate:hover{
+        cursor: pointer;
+        background-color: white;
+        color:rgb(1, 1, 51);
+        border-radius: 30px;
+        transform: scale(1.2);
+        box-shadow: -7px 10px 9px 5px;
+    
     }
     .head{
         font-size: 14px;
